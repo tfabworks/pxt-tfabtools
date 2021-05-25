@@ -1,0 +1,12 @@
+{
+  "TFabTools.time": "日時を取得します。",
+  "TFabTools.readValue": "クラウド変数から数値を読みます。",
+  "TFabTools.readValue|param|varName": "クラウド変数名",
+  "TFabTools.serialInitialize": "シリアル通信の初期設定や日時の取得を行います。",
+  "TFabTools.writeValue": "クラウド変数に数値を書きます。",
+  "TFabTools.writeValue|param|value": "クラウド変数に書き込む値",
+  "TFabTools.writeValue|param|varName": "クラウド変数名",
+  "TFabTools.drawGraph": "入力された値からTFabGraph上にグラフを描きます。",
+  "TFabTools.drawGraph|param|value": "グラフ化する値",
+  "TFabTools.Tzsetting": "グリニッジ標準時からの時差を設定します。"
+}

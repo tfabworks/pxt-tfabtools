@@ -1,2 +1,7 @@
-# pxt-tfabtools
-TFabGraph及びTFabConnectのMakeCode拡張ブロック
+# pxt-tfabconnect-beta
+
+
+https://beta.tfabconnect.com/
+
+
+

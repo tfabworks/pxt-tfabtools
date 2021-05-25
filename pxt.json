@@ -1,0 +1,25 @@
+{
+    "name": "pxt-tfabconnect-beta",
+    "version": "1.0.19",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/ja/pxt-tfabconnect-beta-strings.json",
+        "_locales/ja/pxt-tfabconnect-beta-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts",
+        "test.blocks"
+    ],
+    "public": false,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}

@@ -1,0 +1,17 @@
+{
+  "Choice.UnixTime|block": "UnixTime",
+  "Choice.day|block": "日",
+  "Choice.hour|block": "時",
+  "Choice.minute|block": "分",
+  "Choice.month|block": "月",
+  "Choice.second|block": "秒",
+  "Choice.year|block": "年",
+  "TFabTools.readValue|block": "クラウド変数%varName|",
+  "TFabTools.serialInitialize|block": "初期化",
+  "TFabTools.time|block": "時間 %Choice",
+  "TFabTools.Tzsetting|block": "時差を %Pm| %Tz_h| 時間 %Tz_m| 分にする",
+  "TFabTools.writeValue|block": "クラウド変数%varName|を%value|にする",
+  "TFabTools.drawGraph|block": "%value|のグラフを描く",
+  "TFabTools|block": "TFabTools",
+  "{id:category}TFabTools": "TFabTools"
+}
