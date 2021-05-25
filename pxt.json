@@ -10,8 +10,8 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/ja/pxt-tfabconnect-beta-strings.json",
-        "_locales/ja/pxt-tfabconnect-beta-jsdoc-strings.json"
+        "_locales/ja/pxt-tfabtools-strings.json",
+        "_locales/ja/pxt-tfabtools-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts",
