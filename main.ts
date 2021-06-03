@@ -62,7 +62,7 @@ enum Tz_m {
     fourty_five
 }
 
-//% weight=2 color=#3276f4 icon="\uf0c2"
+//% weight=69 color=#3276f4 icon="\uf0c2"
 namespace TFabTools {
     let writeWaitTime = 1000;
     let readWaitTime = 3000;
