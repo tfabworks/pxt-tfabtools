@@ -6,6 +6,8 @@
   "Choice.month|block": "月",
   "Choice.second|block": "秒",
   "Choice.year|block": "年",
+  "Axis.MAIN|block": "主軸",
+  "Axis.SUB|block": "第2軸",
   "TFabTools.readValue|block": "クラウド変数%varName|",
   "TFabTools.serialInitialize|block": "初期化",
   "TFabTools.time|block": "時間 %Choice",
