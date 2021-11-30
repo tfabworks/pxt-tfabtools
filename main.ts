@@ -69,7 +69,7 @@ enum Axis {
     SUB = 1
 }
 
-//% weight=2 color=#3276f4 icon="\uf0c2"
+//% weight=2 color=#3276f4 icon="\uf0b1"
 namespace TFabTools {
     let writeWaitTime = 1000;
     let readWaitTime = 3000;
